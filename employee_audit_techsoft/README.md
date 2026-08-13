@@ -17,7 +17,7 @@ Sistema de auditoría automática para una base de datos de empleados. Cada camb
 - ✅ Gestión de integridad referencial
 
 ## 🗺️ Modelo de datos
-![Diagrama ER](docs/diagrama_er.png)
+![Diagrama ER](docs/diagram_er.png)
 
 ## 🚀 Cómo ejecutar
 1. Ejecuta `01_schema.sql` (crea BD y tablas)
